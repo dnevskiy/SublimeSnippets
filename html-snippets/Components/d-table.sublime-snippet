@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+table.table>thead>tr>th{Name}+th{Instrument}+th+th^^tfoot>tr>th{Name}+th{Instrument}+th+th^^tbody>tr>td{Misty Abbott}+td{Bass Guitar}+td.table-link.table-icon>a>i.fa.fa-twitter^^td.table-link.table-icon>a>i.fa.fa-instagram^^^tr>td{John Smith}+td{Rhythm Guitar}+td.table-link.table-icon>a>i.fa.fa-twitter^^td.table-link.table-icon>a>i.fa.fa-instagram^^^tr>td{Robert Mikels}+td{Lead Guitar}+td.table-link.table-icon>a>i.fa.fa-twitter^^^td.table-link.table-icon>a>i.fa.fa-instagram^^tr>td{Karyn Holmberg}+td{Drums}+td.table-link.table-icon>a>i.fa.fa-twitter^^td.table-link.table-icon>a>i.fa.fa-instagram
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d-table</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html,source.php</scope>
+</snippet>

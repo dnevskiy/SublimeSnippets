@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+nav.menu>p.menu-heading{Repositories}+p.menu-tabs>a.is-active{All}+a{Public}+a{Private}+a{Sources}+a{Forks}^a.menu-block.is-active>span.menu-icon>i.fa.fa-book{bulma-website}^^a.menu-block>span.menu-icon>i.fa.fa-book{bulma}^^a.menu-block>span.menu-icon>i.fa.fa-book{marksheet}^^a.menu-block>span.menu-icon>i.fa.fa-code-fork{daniellowtw/infBoard}^^a.menu-block>span.menu-icon>i.fa.fa-book{jgthms.github.io}^^a.menu-block>span.menu-icon>i.fa.fa-code-fork{mojs}^^a.menu-block>span.menu-icon>i.fa.fa-book{grumpy-cat}^^label.menu-checkbox>input[type='checkbox']{Remember me}^.menu-block>button.button.is-primary.is-outlined.is-fullwidth{Reset all filters}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d-menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html,source.php</scope>
+</snippet>

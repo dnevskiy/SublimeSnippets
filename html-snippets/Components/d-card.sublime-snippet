@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+.card>.card-image>figure.image.is-4by3>img[src='http://placehold.it/300x225', alt='']^^.card-content>.media>.media-left>figure.image.is-32x32>img[src='http://placehold.it/64x64' alt='Image']^^.media-content>p.title.is-5{John Smith}+p.subtitle.is-6{@johnsmith}^^.content{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. }>a{@bulmaio}+a{#css}+a{#responsive}+br+small{11:09 PM - 1 Jan 2016}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d-card</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html,source.php</scope>
+</snippet>

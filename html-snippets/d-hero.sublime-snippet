@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+section.hero.is-medium.is-primary.is-bold.is-left>.hero-content>.container>h1.title{Hero title}+h2.subtitle{Hero subtitle}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hero</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

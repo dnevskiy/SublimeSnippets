@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+.container.is-fluid>div.notification>{This container is }+strong{fluid}+{: it will have a 20px gap on either side, on any viewport size.}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d-container</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

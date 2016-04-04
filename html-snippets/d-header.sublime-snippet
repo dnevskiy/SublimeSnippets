@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+header.header>.container>c{Left side}+div.header-left>a.header-item>img[src="images/bulma.png" alt="Logo"]^a.header-tab{Tab}+a.header-tab.is-active{Active tab}^c{Hamburger menu (on mobile)}+span.header-toggle>span*3^c{Right side}+.header-right.header-menu>span.header-item>a{Nav item}^span.header-item>a{Other nav item}^span.header-item>a.button{Button}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d-header</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
